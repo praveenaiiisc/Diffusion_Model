@@ -1,4 +1,3 @@
-![Asset 5](https://user-images.githubusercontent.com/13435425/222425743-213279f9-d0a1-413c-a16a-2c88b512f827.png)
 
 ### Diffusion models as a powerful generative models.
 
